@@ -25,3 +25,7 @@ Thumbs.db
 *.log
 tmp/
 temp/
+
+input/*
+!input/.gitkeep
+
